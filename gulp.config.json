@@ -1,0 +1,22 @@
+{
+  "client": "./src/client/",
+  "server": "./src/server/",
+  "client_tests:": "./src/client/tests/",
+  "server_tests": "./src/server/tests/",
+  "html": "./src/client/**/*.html",
+  "vendorjs":[
+  ],
+  "vendorcss":[
+
+  ],
+  "css":[
+
+  ],
+  "js":[
+    "./src/**/*.js"
+  ],
+  "fonts": [
+    "./bower_components/font-awesome/fonts/**/*.*"
+  ],
+  "build":"./build/"
+}
